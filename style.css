@@ -617,7 +617,7 @@ nav.mainMenu > ul > li:first-child > a, nav.mainMenu > ul > li > a, nav.mainMenu
 @media screen and (max-width:1024px) {
 header .logo{width:20%;}
 nav.mainMenu > ul > li:first-child > a, nav.mainMenu > ul > li > a, nav.mainMenu > ul > li:last-child > a{font-size:14px;}	
-.navbar .navbar-nav {margin-left:10%;}
+
 }
 
 @media screen and (max-width:980px) {
@@ -668,7 +668,7 @@ header .topRow .companyLogo{background:url(../images/second-logo-m.png) no-repea
 .container{float:left; width:100%;}
 .addressArea{float:left;width:100%;}
 footer{float:left; width:100%;}
-.navbar .navbar-nav {margin-left:10%;}
+
 }
 
 @media screen and (max-width:800px) {
@@ -676,14 +676,14 @@ footer{float:left; width:100%;}
 #slider-wrap ul li .details h2{font-size:16px; line-height:22px;}
 #slider-wrap ul li .details p{font-size:13px; line-height:15px;}
 .addressArea .socialArea ul li{margin:0 2px;}	
-.navbar .navbar-nav {margin-left:10%;}
+
 }
 @media screen and (max-width:768px) {
 .innerContent .content .leftArea{width:100%; margin:0 0 20px 0;}
 .innerContent .content .rightArea{width:100%; margin:0;}
 .innerBanner .leftBlock, .innerBanner .rightBlock{display:none;}
 .innerContent .rightIcon ul li{padding:0 10px;}
-.navbar .navbar-nav {margin-left:10%;}
+
 }
 @media screen and (max-width:640px) {
 .serviceArea li{width:50%;}
