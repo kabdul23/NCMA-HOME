@@ -583,13 +583,13 @@ background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIH
 /*******Responsive*********/
 @media screen and (max-width:1330px) {
 .serviceArea li h2{font-size:25px;}
-.navbar .navbar-nav {margin-left:18%;}
+
 }
 @media screen and (max-width:1230px) {
 .content{padding:0 20px;}
 nav.mainMenu > ul > li > a{padding:0 12px;}
 .serviceArea li h2{font-size:22px;}
-.navbar .navbar-nav {margin-left:18%;}
+
 }
 @media screen and (max-width:1180px) {
 nav.mainMenu > ul > li > a{padding:0 9px;}
@@ -597,7 +597,7 @@ nav.mainMenu > ul > li > a{padding:0 9px;}
 .serviceArea li h2 span{padding-top:14px;}
 #slider-wrap ul li .details{width:47%;}
 #slider-wrap ul li .details p{max-width:450px; padding-top:20px;font-size:15px;}
-.navbar .navbar-nav {margin-left:18%;}
+
 }
 
 @media screen and (max-width:1140px) {
@@ -606,12 +606,12 @@ nav.mainMenu > ul > li{float:none; display:inline-block;}
 nav.mainMenu ul ul li a{text-align:left;font-size:15px;}	
 nav.mainMenu > ul > li:first-child > a, nav.mainMenu > ul > li > a, nav.mainMenu > ul > li:last-child > a{padding:0 8px; font-size:15px;}
 .serviceArea li h2{font-size:17px;}
-.navbar .navbar-nav {margin-left:18%;}
+
 }
 
 @media screen and (max-width:1070px) {
 nav.mainMenu > ul > li:first-child > a, nav.mainMenu > ul > li > a, nav.mainMenu > ul > li:last-child > a{padding:0 5px;}
-.navbar .navbar-nav {margin-left:18%;}
+
 }
 
 @media screen and (max-width:1024px) {
